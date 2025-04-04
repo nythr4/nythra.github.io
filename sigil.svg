@@ -1,0 +1,10 @@
+
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="90" fill="none" stroke="#5c4033" stroke-width="6"/>
+  <circle cx="100" cy="100" r="6" fill="#5c4033"/>
+  <line x1="100" y1="20" x2="100" y2="180" stroke="#5c4033" stroke-width="2"/>
+  <line x1="20" y1="100" x2="180" y2="100" stroke="#5c4033" stroke-width="2"/>
+  <path d="M100 160 Q95 170 100 180 Q105 170 100 160 Z" fill="#a0522d"/>
+  <path d="M100 40 Q90 60 100 80 Q110 60 100 40 Z" fill="#f4cccc"/>
+  <text x="100" y="195" font-size="12" text-anchor="middle" fill="#5c4033">☸️ White Lotus</text>
+</svg>
